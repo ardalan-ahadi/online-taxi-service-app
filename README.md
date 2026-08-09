@@ -1,12 +1,4 @@
-language:
-javascript node
-
-frameworks:
-backend: "express"
-frontend: "react-native"
-database: "sqlite3"
-
-notes:
+# Setup Guide
 1- initiate a database folder and copy the files
 2- initiate an express.js project for backend and copy the files as structured
 3- initiate an expo project named "frontend" and copy the code files there
