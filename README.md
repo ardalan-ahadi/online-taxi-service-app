@@ -7,4 +7,4 @@
 - update the addresses (back & front) & links (front)
 - install missing requirments of backend and database too
 # Tech Features
-- React Native, Node.js, Express.js, SQLite, Redux, Axios, JWT Authentication
+React Native, Node.js, Express.js, SQLite, Redux, Axios, JWT Authentication
